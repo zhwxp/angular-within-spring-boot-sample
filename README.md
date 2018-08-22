@@ -1,5 +1,6 @@
-# angular-within-spring-boot-sample
-This sample project is to show how to build Angular project with maven and run Angular project within spring boot.
+# Spring Boot Angular Sample
+
+This sample project is to show how to build Angular project with Maven and run Angular project within Spring Boot.
 
 ## Built With
 * [Maven](https://maven.apache.org) - Dependency Management
